@@ -1,0 +1,16 @@
+{
+    "name": "EduMate — Sairam Student Portal",
+    "short_name": "EduMate",
+    "description": "A premium student dashboard for Sri Sairam Engineering College.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0f172a",
+    "icons": [
+        {
+            "src": "/assets/SAIRAM-ROUND-LOGO.png",
+            "sizes": "any",
+            "type": "image/png"
+        }
+    ]
+}
